@@ -9,6 +9,7 @@ Tools, Best Practices, and other resources for writing APIs
   * [HTTP status codes](http://www.restapitutorial.com/httpstatuscodes.html)
   * [API cheatsheet](https://github.com/RestCheatSheet/api-cheat-sheet)
   * [Platform-building cheatsheet](https://github.com/RestCheatSheet/platform-cheat-sheet#platform-building-cheat-sheet)
+* [swagger.io](http://swagger.io/) (API specifications)
 
 ### API Testing
 
