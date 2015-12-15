@@ -8,6 +8,10 @@ Tools, Best Practices, and other resources for writing APIs
 * [restapitutorial.com](http://www.restapitutorial.com/)
   * [API cheatsheet](https://github.com/RestCheatSheet/api-cheat-sheet)
   * [Platform-building cheatsheet](https://github.com/RestCheatSheet/platform-cheat-sheet#platform-building-cheat-sheet)
+* http://restcookbook.com/
+
+#### API specifications
+
 * [swagger.io](http://swagger.io/) (API specifications)
 
 ### HTTP Methods
