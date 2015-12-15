@@ -19,6 +19,7 @@ Tools, Best Practices, and other resources for writing APIs
 * http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 * http://www.restapitutorial.com/httpstatuscodes.html
 * https://httpstatuses.com/
+* https://github.com/for-GET/know-your-http-well/blob/master/status-codes.md
 
 ### API Testing
 
